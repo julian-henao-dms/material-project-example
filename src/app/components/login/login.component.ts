@@ -54,7 +54,7 @@ this.fakeLoading();
     setTimeout(() => {
       this.router.navigate(['/dashboard']);
       this.loading = false;
-    }, 1500);
+    }, 2000);
   }
 
 }
