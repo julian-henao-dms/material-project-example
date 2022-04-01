@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+th {
+    width: 20%;
+}
+
+td.acciones-tabla {
+    text-align: right;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.search-icon {
+    color: #0986ce;
+}
+
+.edit-icon {
+    color: #0f8ce0;
+}
+
+.delete-icon {
+    color: #ce0000;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.aletar-no-usuarios {
+    margin-top: 10px;
+    text-align: center;
+    color: #ce0000;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: underline;
+}
